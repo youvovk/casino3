@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youvovk.io/casino3/static/css/main.4e73fd3a.chunk.css",
+    "main.js": "/youvovk.io/casino3/static/js/main.a31df016.chunk.js",
+    "main.js.map": "/youvovk.io/casino3/static/js/main.a31df016.chunk.js.map",
+    "runtime-main.js": "/youvovk.io/casino3/static/js/runtime-main.aa2d59b9.js",
+    "runtime-main.js.map": "/youvovk.io/casino3/static/js/runtime-main.aa2d59b9.js.map",
+    "static/js/2.23c25aff.chunk.js": "/youvovk.io/casino3/static/js/2.23c25aff.chunk.js",
+    "static/js/2.23c25aff.chunk.js.map": "/youvovk.io/casino3/static/js/2.23c25aff.chunk.js.map",
+    "index.html": "/youvovk.io/casino3/index.html",
+    "precache-manifest.b3461578da2e42feb7916cddc0edd89f.js": "/youvovk.io/casino3/precache-manifest.b3461578da2e42feb7916cddc0edd89f.js",
+    "service-worker.js": "/youvovk.io/casino3/service-worker.js",
+    "static/css/main.4e73fd3a.chunk.css.map": "/youvovk.io/casino3/static/css/main.4e73fd3a.chunk.css.map",
+    "static/media/main.scss": "/youvovk.io/casino3/static/media/back-main.ae676928.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa2d59b9.js",
+    "static/js/2.23c25aff.chunk.js",
+    "static/css/main.4e73fd3a.chunk.css",
+    "static/js/main.a31df016.chunk.js"
+  ]
+}
